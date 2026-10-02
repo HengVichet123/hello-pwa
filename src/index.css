@@ -10,3 +10,36 @@ body {
 main {
   padding: 24px 16px;
 }
+h2 {
+  font-size: 1rem;
+  font-weight: 500;
+  opacity: 0.7;
+}
+.card {
+  background: #1b2024;
+  border-radius: 16px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+.card p {
+  margin: 4px 0;
+}
+.temp {
+  font-size: 3rem;
+  font-weight: 700;
+}
+.muted {
+  opacity: 0.6;
+  font-size: 0.85rem;
+}
+.error {
+  color: #ff8a80;
+}
+button {
+  font: inherit;
+  padding: 12px 20px;
+  border: 0;
+  border-radius: 12px;
+  background: #f2f2f2;
+  color: #0f1214;
+}
